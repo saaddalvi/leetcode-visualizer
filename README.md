@@ -7,9 +7,9 @@ A beautiful, responsive web application to view and analyze your LeetCode statis
 ## Features
 
 - 📊 Fetch and display comprehensive LeetCode user statistics
-- 📈 Beautiful visualizations of problem-solving data
+- 📈 Beautiful visualizations of Code snippets
 - 🎯 View skill proficiency across different problem categories
-- 📱 Fully responsive design for all devices
+- 📱 Github Readme Generator
 - 🚀 Fast, modern UI built with React and Tailwind CSS
 ![Code Snippet Generator](public/56b270d8-33d2-43b0-b161-54d8926a97fc.jpg)
 
