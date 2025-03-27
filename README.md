@@ -15,8 +15,8 @@ Check out the **[Live Demo] for Github readme here (https://meek-stroopwafel-2f6
 ![Code Snippet Generator](public/56b270d8-33d2-43b0-b161-54d8926a97fc.jpg)
 
 ![Code Snippet Generator](public/hello.png)
-![Code Snippet Generator](public/lv1.png)
-![Code Snippet Generator](public/lv2.png)
+![Code Snippet Generator](public/lv.png)
+![Code Snippet Generator](public/lvd.png)
 
 ## Technologies Used
 
