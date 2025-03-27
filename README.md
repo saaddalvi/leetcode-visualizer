@@ -1,9 +1,10 @@
-# LeetCode Stats Visualizer
+# DEvUtility
 
 A beautiful, responsive web application to view and analyze your LeetCode statistics.
 
 ![LeetCode Stats Visualizer Screenshot](https://i.imgur.com/example.png)
 
+Check out the **[Live Demo] for Github readme here (https://meek-stroopwafel-2f662a.netlify.app/)** here!
 ## Features
 
 - 📊 Fetch and display comprehensive LeetCode user statistics
