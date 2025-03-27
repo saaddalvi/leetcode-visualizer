@@ -12,6 +12,7 @@ A beautiful, responsive web application to view and analyze your LeetCode statis
 - 📱 Github Readme Generator
 - 🚀 Fast, modern UI built with React and Tailwind CSS
 ![Code Snippet Generator](public/56b270d8-33d2-43b0-b161-54d8926a97fc.jpg)
+![Code Snippet Generator](public/2025-03-28 004150.png)
 
 ## Technologies Used
 
