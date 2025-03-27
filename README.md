@@ -11,6 +11,7 @@ A beautiful, responsive web application to view and analyze your LeetCode statis
 - 🎯 View skill proficiency across different problem categories
 - 📱 Fully responsive design for all devices
 - 🚀 Fast, modern UI built with React and Tailwind CSS
+![Code Snippet Generator](public/56b270d8-33d2-43b0-b161-54d8926a97fc.jpg)
 
 ## Technologies Used
 
@@ -83,3 +84,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Disclaimer
 
 This application is not affiliated with, endorsed by, or in any way officially connected to LeetCode. All product names, logos, and brands are property of their respective owners.
+
